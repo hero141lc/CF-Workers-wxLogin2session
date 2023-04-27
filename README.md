@@ -1,0 +1,2 @@
+# CF-Workers-wxLogin2session
+利用cloudflare workers免费每天获取微信小程序用户openid 10万次。完全免费。只需要发给它code就能返回openid
